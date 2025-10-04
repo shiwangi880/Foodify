@@ -15,78 +15,7 @@
 2. React Router DOM
 3. CSS (Vanilla)
 
-
-# Project Structure
-food-ordering-app/
-├── public/
-│   └── index.html                  # Static HTML template for Vite
-├── src/
-│   ├── assets/                     # Images, icons, fonts, etc.
-│   │
-│   ├── components/
-│   │   ├── AppDownload/
-│   │   │   ├── AppDownload.jsx
-│   │   │   └── AppDownload.css
-│   │   │
-│   │   ├── ExploreMenu/
-│   │   │   ├── ExploreMenu.jsx
-│   │   │   └── ExploreMenu.css
-│   │   │
-│   │   ├── FoodDisplay/
-│   │   │   ├── FoodDisplay.jsx
-│   │   │   └── FoodDisplay.css
-│   │   │
-│   │   ├── FoodItem/
-│   │   │   ├── FoodItem.jsx
-│   │   │   └── FoodItem.css
-│   │   │
-│   │   ├── Footer/
-│   │   │   ├── Footer.jsx
-│   │   │   └── Footer.css
-│   │   │
-│   │   ├── Header/
-│   │   │   ├── Header.jsx
-│   │   │   └── Header.css
-│   │   │
-│   │   ├── LoginPopup/
-│   │   │   ├── LoginPopup.jsx
-│   │   │   └── LoginPopup.css
-│   │   │
-│   │   └── Navbar/
-│   │       ├── Navbar.jsx
-│   │       └── Navbar.css
-│   │
-│   ├── context/
-│   │   └── StoreContext.jsx
-│   │
-│   ├── pages/
-│   │   ├── Cart/
-│   │   │   ├── Cart.jsx
-│   │   │   └── Cart.css
-│   │   │
-│   │   ├── Home/
-│   │   │   ├── Home.jsx
-│   │   │   └── Home.css
-│   │   │
-│   │   ├── PlaceOrder/
-│   │   │   ├── PlaceOrder.jsx
-│   │   │   └── PlaceOrder.css
-│   │   │
-│   │   └── (other pages if any)
-│   │
-│   ├── main.jsx                   # React app entrypoint instead of index.js
-│   ├── index.css                  # Global CSS file (typically imported in main.jsx)
-│
-├── .gitignore
-├── eslint.config.js
-├── package.json
-├── package-lock.json
-├── README.md
-├── vite.config.js
-└── index.html                    # Root HTML (in project root, not public)
-
-
-
+   
 # 1.Installation
 # Clone the repository
 git clone https://github.com/yourusername/food-ordering-app.git
