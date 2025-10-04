@@ -15,6 +15,7 @@ A simple and responsive web application for browsing and ordering food online. B
 - 📦 Place Order page with order summary
 - 📱 **Responsive Design** for desktop, tablet, and mobile
   
+  
 
   ## ⚙️ Tech Stack
 
@@ -27,6 +28,7 @@ A simple and responsive web application for browsing and ordering food online. B
 | State Mgmt   | useState, useEffect     |
 | Auth (Mock)  | Simple local state      |
 | Payments     | Placeholder integration |
+
 
 
 
