@@ -18,7 +18,7 @@
    
 # 1.Installation
 # Clone the repository
-git clone https://github.com/yourusername/your app name.git
+git clone https://github.com/yourusername/yourappname.git
 cd food-ordering-app
 
 # 2.Install dependencies
