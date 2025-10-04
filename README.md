@@ -31,6 +31,17 @@ A simple and responsive web application for browsing and ordering food online. B
 
 
 
+📄 **License**
+- This project is licensed under the MIT License.
+
+
+🙌 **Contributing**
+- Contributions are welcome! Feel free to open issues or submit pull requests.
+
+💬 **Feedback**
+- If you find a bug or have a suggestion, feel free to open an issue.
+- Made with ❤️ using React & Tailwind.
+
 
 ## 🔧 Installation & Setup
 
