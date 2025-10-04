@@ -31,18 +31,6 @@ A simple and responsive web application for browsing and ordering food online. B
 
 
 
-📄 **License**
-- This project is licensed under the MIT License.
-
-
-🙌 **Contributing**
-- Contributions are welcome! Feel free to open issues or submit pull requests.
-
-💬 **Feedback**
-- If you find a bug or have a suggestion, feel free to open an issue.
-- Made with ❤️ using React & Tailwind.
-
-
 ## 🔧 Installation & Setup
 
 1. **Clone the repository**
@@ -52,9 +40,23 @@ cd online-food-ordering
 2. **Install dependencies**
 npm install
 
-
 3. **Start the development server**
 npm start
+
+
+
+📄 **License**
+- This project is licensed under the MIT License.
+
+
+🙌 **Contributing**
+- Contributions are welcome! Feel free to open issues or submit pull requests.
+
+💬 **Feedback**
+- If you find a bug or have a suggestion, feel free to open an issue.
+- Made with ❤️ using React,React-Router-Dom and CSS.
+
+
 
 
 
